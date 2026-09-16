@@ -24,6 +24,6 @@ Neste projeto, foquei em entender como os elementos se comportam no navegador. A
 ---
 
 ## 📸 Visualização
-*(Dica: Adicione aqui um print da tela do seu projeto para torná-lo visualmente atraente)*
+<img src="/img/image.png" alt="Imagem do Site">
 
 ---
